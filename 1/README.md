@@ -25,10 +25,10 @@
 
 ## Weryfikacja
 
-Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+Aby sprawdzić konfigurację systemu należy uruchomić polecenie:
 
 ```bash
-bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/masterclass-setup/master/1/verify/verify.sh)"
+bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/test-solidarity/master/verify.sh)"
 ```
 
 [1]: https://warsawjs.github.io/workshop-setup/partials/edytor-tekstu.html
