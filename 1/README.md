@@ -25,11 +25,11 @@
 
 ## Weryfikacja
 
-* Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
+Aby spr. prawidłową instalację i konfigurację należy uruchomić polecenie:
 
-    ```bash
-    bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/masterclass-setup/master/1/verify/verify.sh)"
-    ```
+```bash
+bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/masterclass-setup/master/1/verify/verify.sh)"
+```
 
 [1]: https://warsawjs.github.io/workshop-setup/partials/edytor-tekstu.html
 [2]: https://warsawjs.github.io/workshop-setup/partials/przegladarka.html
