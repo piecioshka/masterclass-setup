@@ -25,11 +25,16 @@
 
 ## Weryfikacja
 
-Aby sprawdzić konfigurację systemu, należy uruchomić polecenie:
+Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
-bash -c "$(curl -sSL https://raw.githubusercontent.com/piecioshka/test-solidarity/master/verify.sh)"
+mkdir -p /tmp/
+curl -sSL https://raw.githubusercontent.com/warsawjs/masterclass-setup/master/1/.solidarity.json > /tmp/.solidarity.json
+npx solidarity -f /tmp/.solidarity.json
+rm /tmp/.solidarity.json
 ```
+
+_Dla Windows: Uruchom powyższe polecania w `Git Bash`._
 
 [1]: https://warsawjs.github.io/workshop-setup/partials/edytor-tekstu.html
 [2]: https://warsawjs.github.io/workshop-setup/partials/przegladarka.html
