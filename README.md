@@ -8,4 +8,4 @@
 
 ## WarsawJS MasterClass #1 — Angular
 
-* <https://piecioshka.github.io/masterclass-setup/1/>
+* <https://warsawjs.github.io/masterclass-setup/1/> (+ Solidarity)
