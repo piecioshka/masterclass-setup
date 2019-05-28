@@ -9,3 +9,7 @@
 ## WarsawJS MasterClass #1 — Angular
 
 * <https://warsawjs.github.io/masterclass-setup/1/> (+ Solidarity)
+
+## WarsawJS MasterClass #2 — JavaScript
+
+* <https://warsawjs.github.io/masterclass-setup/2/> (+ Solidarity)

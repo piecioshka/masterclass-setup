@@ -1,4 +1,4 @@
-# WarsawJS MasterClass #1 — Wymagane oprogramowanie
+# WarsawJS MasterClass #2 — Wymagane oprogramowanie
 
 <img
     src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
@@ -19,9 +19,6 @@
     + [Integracja z GitHub-em][5]
     + [Konfiguracja użytkownika][6]
     + [Konfiguracja globalna][7]
-5. (Opcjonalnie) [Docker][10]
-6. (Opcjonalnie) [Baza danych **MongoDB**][11]
-    + MongoDB [Compass][12]
 
 ## Weryfikacja
 
@@ -29,7 +26,7 @@ Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
 mkdir -p /tmp/
-curl -sSL https://raw.githubusercontent.com/warsawjs/masterclass-setup/master/1/.solidarity.json > /tmp/.solidarity.json
+curl -sSL https://raw.githubusercontent.com/warsawjs/masterclass-setup/master/2/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
