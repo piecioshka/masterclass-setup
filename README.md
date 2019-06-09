@@ -13,3 +13,7 @@
 ## WarsawJS MasterClass #2 — JavaScript
 
 * <https://warsawjs.github.io/masterclass-setup/2/> (+ Solidarity)
+
+## WarsawJS MasterClass #3 — React.js
+
+* <https://warsawjs.github.io/masterclass-setup/3/> (+ Solidarity)
