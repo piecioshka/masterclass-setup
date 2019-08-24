@@ -1,4 +1,4 @@
-# WarsawJS MasterClass #4 — Wymagane oprogramowanie
+# WarsawJS MasterClass #5 — Wymagane oprogramowanie
 
 <img
     src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
@@ -26,7 +26,7 @@ Aby sprawdzić konfigurację systemu, należy uruchomić:
 
 ```bash
 mkdir -p /tmp/
-curl -sSL https://raw.githubusercontent.com/warsawjs/masterclass-setup/master/4/.solidarity.json > /tmp/.solidarity.json
+curl -sSL https://raw.githubusercontent.com/warsawjs/masterclass-setup/master/5/.solidarity.json > /tmp/.solidarity.json
 npx solidarity -f /tmp/.solidarity.json
 rm /tmp/.solidarity.json
 ```
