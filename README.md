@@ -25,3 +25,7 @@
 ## WarsawJS MasterClass #5 — TypeScript
 
 * <https://warsawjs.github.io/masterclass-setup/5/> (+ Solidarity)
+
+## WarsawJS MasterClass #6 — PWA
+
+* <https://warsawjs.github.io/masterclass-setup/6/> (+ Solidarity)
