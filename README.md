@@ -29,3 +29,11 @@
 ## WarsawJS MasterClass #6 — PWA
 
 * <https://warsawjs.github.io/masterclass-setup/6/> (+ Solidarity)
+
+## WarsawJS MasterClass #7 — React.js
+
+* <https://warsawjs.github.io/masterclass-setup/7/> (+ Solidarity)
+
+## WarsawJS MasterClass #10 — React.js
+
+* <https://warsawjs.github.io/masterclass-setup/10/> (+ Solidarity)
